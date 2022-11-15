@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    background: royalblue;
+    text-align: center;
+}
+
+.nav a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 17px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 7px 10px;
+    display: inline-block;
+}

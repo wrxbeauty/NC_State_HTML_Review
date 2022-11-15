@@ -1,0 +1,17 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+nav {
+    display: flex;
+    background: royalblue;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 17px;
+    font-weight: ;
+}
